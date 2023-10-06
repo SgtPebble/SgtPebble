@@ -1,5 +1,6 @@
 # Hi, I’m @SgtPebble
-- I’m interested in good sex, deep talks, meditation, writing, music and coding (in this order)
+- I don‘t have no public repoositories, only private ones
+- I’m interested in vanilla sex, deep talks, sitting meditation, elegant writing, tight music, and stupid coding (in this order)
 - I’m currently working on HUGO, the GO-based static site rendering engine
 - I’m not looking to collaborate on anything
 
